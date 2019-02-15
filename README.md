@@ -42,8 +42,8 @@
   
 #### Create a repo mysource, add some files, clone it locally and then push it to  new repo called mytarget
   * Create a new repo at github.
-  * Create second repo
-  * Clone 1st repo (under 1st repo folder, create some files) git clone in local (copy source path and clone)
+  * Create second repo (note donot create a readme file)
+  * Clone 1st repo (under 1st repo folder, create some files) git clone in local (copy source path and clone) and go inside it
   * Git remote -v (will take origin by default)
   * git remote add target(secondrepo) (copy target path)
   * git remote -v
