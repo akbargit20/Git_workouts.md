@@ -78,6 +78,7 @@
   * create a random files with .log and .txt and do git status, you will notice the changes
   * you can keep files inside .gitignore and if you do git status, you will see only .gitignore 
   * lets say you make abc.log, bcd.log and .gitignore; you can vi .gitignore and *.log inside it. You can see the files by ls but you only see .gitignore in git status. 
+  * touch project.log and *.log and !project.log inside .gitignore --- will not show .log files on git status but only show project.Log
 #### setting password as user
   * cd 
   * sudo useradd robin
