@@ -51,13 +51,8 @@
   
 
 
-<<<<<<< HEAD
-#### Create a repo on github, create development branch, add some changes to development branch and then merge it with master
-  * create branch called development d
-=======
 #### Create a repo on github, create development branch, add some changes to development branch and then merge it with master.
   * create branch called development
->>>>>>> updated README.md
   * make some changes in files
   * Create base: master and compare with: development
   * create a pull request 
