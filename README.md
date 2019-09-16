@@ -1,3 +1,4 @@
+#### TIPS:
 #### For more info, you may visit below link:
   * https://www.atlassian.com/git/tutorials/syncing/git-pull
 #### Things you need to do to add files on github if you alredy have existing files in it
