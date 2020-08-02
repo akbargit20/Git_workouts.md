@@ -80,21 +80,3 @@
   * you can keep files inside .gitignore and if you do git status, you will see only .gitignore 
   * lets say you make abc.log, bcd.log and .gitignore; you can vi .gitignore and *.log inside it. You can see the files by ls but you only see .gitignore in git status. 
   * touch project.log and *.log and !project.log inside .gitignore --- will not show .log files on git status but only show project.Log
-#### setting password as user
-  * cd 
-  * sudo useradd robin
-  * sudo passwd robin
-#### create a shortcut of /tmp/abc.txt in home directory
-  * cd /
-  * vi /tmp/abc.txt
-  * cd
-  * ln -s /tmp/abc.txt shortcutabc.txt
-#### giving permission to file name
-  * chmod 700 {filename}
-  * chmod 600 {filename}
-  * chmod 755 {filename} and so on
-#### More, less, head, tail
-  * more >> enter (more%) , b (less%)
-  * less >> space (down) b (up)
-  * head >> top 10 content within a file
-  * tail >> buttom 10 content within a file 
